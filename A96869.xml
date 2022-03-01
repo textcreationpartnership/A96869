@@ -1,0 +1,551 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ioseph paralled [sic] by the present Parliament, in his sufferings and advancement. A sermon preached before the Honourable House of Commons, on their solemn day of Thanksgiving, Feb. 19. 1645. For the great mercy of God in the reducement of the city of Chester, by the forces under the command of Sr William Brereton. By Fra. Woodcock minister of Olaves Southwarke, one of the Assembly of Divines. Published by order of the said House.</title>
+            <author>Woodcock, Francis, 1614?-1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96869</idno>
+            <idno type="STC">Wing W3430</idno>
+            <idno type="STC">Thomason E323_5</idno>
+            <idno type="STC">ESTC R200595</idno>
+            <idno type="EEBO-CITATION">99861305</idno>
+            <idno type="PROQUEST">99861305</idno>
+            <idno type="VID">113437</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96869)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113437)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E323[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ioseph paralled [sic] by the present Parliament, in his sufferings and advancement. A sermon preached before the Honourable House of Commons, on their solemn day of Thanksgiving, Feb. 19. 1645. For the great mercy of God in the reducement of the city of Chester, by the forces under the command of Sr William Brereton. By Fra. Woodcock minister of Olaves Southwarke, one of the Assembly of Divines. Published by order of the said House.</title>
+                  <author>Woodcock, Francis, 1614?-1651.</author>
+               </titleStmt>
+               <extent>[8], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G.M. for Christopher Meredith at the signe of Crane in Pauls Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Genesis XLIX, 23-24 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113437:1" rendition="simple:additions"/>
+            <p>IOSEPH Paralled by the preſent PARLIAMENT, in his ſufferings and advancement.</p>
+            <p>A SERMON Preached before the Honourable <hi>HO<g ref="char:V">Ʋ</g>SE</hi> of <hi>COMMONS,</hi> on their ſolemn day of Thankſgiving, <hi>Feb.</hi> 19. 1645. For the great mercy of God in the reducement of the City of <hi>Cheſter,</hi> by the Forces under the command of S<hi rend="sup">r</hi> 
+               <hi>Wil<g ref="char:EOLhyphen"/>liam Brereton.</hi>
+            </p>
+            <p>By FRA. WOODCOCK Miniſter of <hi>Olaves Southwarke,</hi> one of the Aſſembly of Divines.</p>
+            <p>
+               <hi>Publiſhed by Order of the ſaid Houſe.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. M.</hi> for <hi>Chriſtopher Meredith,</hi> at the Signe of Crane in <hi>Pauls</hi> Church-yard. 1646.</p>
+         </div>
+         <div type="order">
+            <pb facs="tcp:113437:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Lunae,</hi> 23 <hi>Februarij,</hi> 1645.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Commons aſſembled in Parliament, That Master <hi>Rous</hi> do give thanks to Master <hi>VVoodcock</hi> and Maſter <hi>Caſe,</hi> for the great pains they took in the Sermons they preached at the intreatie of this Houſe on Thurſday laſt (being a day ſet apart for a day of publike Thankeſ<g ref="char:EOLhyphen"/>giving for the taking of <hi>Cheſter)</hi> and to deſire them to Print their Sermons. And it is Ordered that none ſhall Print their Sermons without licenſe under thier hands writing.</p>
+            <closer>
+               <signed>H. Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="appointment">
+            <p>I appoint <hi>Chriſtopher Meredith</hi> to print my Sermon.</p>
+            <closer>
+               <signed>FRA. WOODCOCK.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113437:2"/>
+            <head>TO THE HONOVRABLE HOVSE OF COMMONS Aſſembled in PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE many ſucceſſes of late vouch<g ref="char:EOLhyphen"/>ſafed you, has made you as fre<g ref="char:EOLhyphen"/>quent in your <hi>ſolemn rejoicing,</hi> as in your <hi>ſolemn mourning,</hi> and for theſe ſeverall moneths together, you have not oftner kept daies of <hi>faſting</hi> and <hi>prayer,</hi> then daies of <hi>feasting and praiſes.</hi>
+            </p>
+            <p>Formerly in ſo much hazard have mattes been, that not daring to tarry the coming of the <hi>monethly faſts,</hi> you were glad to take up ex<g ref="char:EOLhyphen"/>traordinary ones between; whereas now, not ſo much of neceſſity, as of courſe, you celebrate a day of <hi>faſt once a moneth.</hi>
+            </p>
+            <p>Not long ago, the cry of every man was, <hi>what ſhall I do?</hi> now it either is or ought to be, <hi>what ſhall I render?</hi> ſo mercifully has God
+<pb facs="tcp:113437:3"/> changed your <hi>water</hi> into <hi>wine,</hi> and taking away your <hi>ſackcloth,</hi> girded you with <hi>gladneſſe.</hi>
+            </p>
+            <p>And now, what is your wiſedom, but to en<g ref="char:EOLhyphen"/>deavour to walke worthy theſe great <hi>deliveran<g ref="char:EOLhyphen"/>ces,</hi> and the <hi>God</hi> of them; which if you do, you may be confident, that he that <hi>hath</hi> and daily <hi>doth deliver,</hi> will go on alſo to <hi>finiſh deliverance;</hi> but if by doing any wicked thing you ſhall evil<g ref="char:EOLhyphen"/>ly requite him, how ſoon can he turn you to your faſting again, or to ſomething elſe that's worſe, and inſtantly blaſt all that ſmiling hope<g ref="char:EOLhyphen"/>fullneſſe of things already vouchſafed?</p>
+            <p>But I <hi>hope</hi> better things, and ſhall not fail to <hi>pray</hi> for better, you having a right to challenge this and much more from</p>
+            <closer>
+               <signed>Your avowed ſervant for Chriſt, <hi>Fra. Woodcock.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:113437:3"/>
+            <head>To my dear and much Honoured Countrey-men, the well affected of the County and City of CHESTER.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Y affection to my native place, <hi>now ſurrendred,</hi> together with my intereſts in many of you there<g ref="char:EOLhyphen"/>to appertaining, will eaſily bear me out, in that I take the boldneſſe in a few words to congratulate with you the <hi>ſurrender of it:</hi> That <hi>a mother City in England</hi> is this day preſerv'd, cannot but be matter of rejoicing to every good Engliſh heart, how much more muſt it be unto me (who being ſo neerly related to it, am more eſpecially concerned in its preſervation. Give <hi>me</hi> leave therefore, who ſometimes have mourned with you, and for you, now to <hi>rejoice</hi> alſo with and for you; and to endeavour to helpe forward your preſent rejoicing, as in time paſt I have en<g ref="char:EOLhyphen"/>deavoured your mourning.</p>
+            <p>Surely God hath wrought a great deliverance for you, a very great deliverance, and I plainly perceive you ſhall need all the helpe and furtherance that may be, to enable you to render to him according to the benefit. 'Tis true (I confeſse) the matter lookt upon with a carnal eye, will not perhaps appear ſo great and conſiderable, and ſome of you beholding the ruins of the place, and perceiving alſo your particular estates gone and your houſes burnt to the ground, may ſay, that as to you <hi>Cheſter is loſt ſtill:</hi> Yet notwith<g ref="char:EOLhyphen"/>standing,
+<pb facs="tcp:113437:4"/> conſidering what advantage the gaining of the place is to the publike, and to the moſt of you in particular; withall duly weighing the circumſtances of time, means, manner of gaining it, who is there will not be enforced to ſay 'tis a very great mercy?</p>
+            <p>Me thinks in that 'tis <hi>Cheſter</hi> which is reduced, to me imports exceeding much of mercy, that <hi>that place</hi> is gain<g ref="char:EOLhyphen"/>ed, which was the only <hi>dore of hope</hi> remaining unſhut againſt the <hi>bloudy Iriſh,</hi> ſure the Kingdom looks upon it as a very great mercy, and who is not glad that <hi>Cheſter</hi> will no more let in thoſe <hi>barbarous Iriſh,</hi> either <hi>into it ſelf,</hi> or <hi>into the Kingdom?</hi>
+            </p>
+            <p>The <hi>time</hi> of its ſurrender hath much alſo in it of mercie; for, was it when the enemy was very high and proſpering? was it at ſuch a time as they could well ſpare us ſuch a place as <hi>Cheſter?</hi> or rather were they not very low, ex<g ref="char:EOLhyphen"/>ceedingly declined, even gaſping for life? and with <hi>giving up the City,</hi> did they not in thoſe parts at leaſt wiſe <hi>give up the ghoſt</hi> alſo? and having <hi>let go Cheſter,</hi> will they be able to <hi>hold any thing</hi> after it?</p>
+            <p>I may not omit the <hi>means</hi> whereby you won the City, for there's much of mercie in that alſo; and was not your <hi>ſpirituall militia</hi> the chief in gaining of it? may I not be confident that 'twas your <hi>cloſe beſeeging Heaven</hi> did contribute more to the ſurrender of it, then <hi>your cloſe be<g ref="char:EOLhyphen"/>ſeeging the place it ſelf?</hi> and did not <hi>your faſting ſtarve the enemy out of Cheſter? that kinde having ſeldom been caſt out of any place, but by prayer and faſting:</hi> and ſpeaks not this a great deal of mercie?</p>
+            <p>And though the Lord hath long delaid you, and your hopes have ſuffered a frequent defeazure, yet hath he not hereby taught you to overcome your haſty impatience,
+<pb facs="tcp:113437:4"/> the <hi>overcoming</hi> whereof (in <hi>Solomons</hi> judgement) is more then if any of you ſingly and alone <hi>had conquered the City:</hi> Beſides theres hope you will come now <hi>weaned</hi> 
+               <note place="margin">
+                  <hi>Prov.</hi> 19. 32.</note> 
+               <hi>to your comforts, you having</hi> been ſo long and ſo much <hi>weaned from</hi> them, and the throwing you out of your place and habitation, has taught you not to look for in the preſent life, <hi>an abiding City:</hi> and is not all this rich mercie?</p>
+            <p>And what though you come many of you to emptie houſes, yea to no houſes, yet finding all peaceable and quiet within, what a mercie is it: If you have not <hi>ſaved your eſtates,</hi> yet if you can ſay (as he) <hi>I have ſaved the</hi> 
+               <note place="margin">
+                  <hi>Sir</hi> Ralph Pier<g ref="char:EOLhyphen"/>cie <hi>at his death,</hi> vide Speed.</note> 
+               <hi>bird in my breaſt:</hi> what a mercie is it?</p>
+            <p>If conſcience be not wasted, though every thing elſe is, and though your ſtate is broken, yet that your peace is not broken, what a mercy is it? If you have been kept free from thoſe <hi>conſcience waſting oaths,</hi> and thoſe <hi>peace breaking practiſes</hi> which others have been miſerably in<g ref="char:EOLhyphen"/>tangled with, oh what a mercie. And for your eſtates, how ſpeedily can the Lord repair you: how quickly have ſome I know among you got up their estates and trade again, which for owning a good cauſe they have for a time been hindred of: And is not the <hi>promiſe</hi> the ſame; <hi>If any man forſake father or mother, lands or houſes,</hi> &amp;c. and I make no doubt of the ſame if not fuller <hi>per<g ref="char:EOLhyphen"/>formance.</hi>
+            </p>
+            <p>So then, the mercie being great, great to the publike and to your ſelves great alſo, what remains, but that you conſider how to render unto the Lord ſutable to the greatneſſe of it. And for this purpoſe, give me leave firſt of all to adviſe, that ſeeing God hath <hi>ſurrendred the City into your hands,</hi> you would <hi>deliver it up again into his hands,</hi>
+               <pb facs="tcp:113437:5"/> my meaning is, that you procure ſuch a Magiſtracie and Miniſtry to it, as may govern and watch over it for God.</p>
+            <p>In the Next place, <hi>ſinne no more;</hi> You know whoſe coun<g ref="char:EOLhyphen"/>ſel it is, forget not to repent of <hi>old ſinnes,</hi> beware of com<g ref="char:EOLhyphen"/>mitting <hi>new,</hi> either whereof may expoſe you to new miſerie.</p>
+            <p>Be <hi>at one among your ſelves,</hi> Oh that <hi>Cheſter</hi> might <note place="margin">
+                  <hi>Pſal.</hi> 122. 3.</note> be as <hi>Jeruſalem, a City compacted together; A City divided againſt it ſelf cannot ſtand.</hi>
+            </p>
+            <p>And you that are the Lords, ſerve him <hi>in that good old way,</hi> I mean in humility, ſelf-deniall, in love, without diſ<g ref="char:EOLhyphen"/>ſimulation and faith unfeigned, wherein I know ſome of you well experienc'd: The Lord in repoſſeſsing you of your habitations, has ſhewn you reall kindneſſe, requite him not with fancies, ſerve him not with emptie notions, which is but too too common every where at this day.</p>
+            <p>And if in theſe you ſhall be carefull, I make no que<g ref="char:EOLhyphen"/>ſtion but you ſhall quickly forget your former trouble, have your loſſes repaired, and finde in concluſion it was good for you that you have been afflicted: which that you may, ſhall be the unfeigned deſire of</p>
+            <closer>
+               <signed>Your true friend to ſerve you in Chrict Ieſus, <hi>FRA. WOODCOCK.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:113437:5"/>
+            <head>A SERMON PREACHED before the Honourable Houſe of COMMONS, on their ſolemne day of Thankſgiving, for the re<g ref="char:EOLhyphen"/>ducing of the City of <hi>CHESTER. February</hi> 19. 1645.</head>
+            <epigraph>
+               <bibl>GEN. 49. 23, 24.</bibl>
+               <q>
+                  <p>The archers have ſorely grieved him, and ſhot at him, and hated him.</p>
+                  <p>But his bowe ahode in ſtrength, and the armes of his hands were made ſtrong, by the hands of the migh<g ref="char:EOLhyphen"/>ty God of Iacob: from thence is the ſhepherd, the ſtone of Iſrael.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE Patriarch <hi>Jacob</hi> perceiving his end now very neer approaching, ſends, and calls for his children about him, intend<g ref="char:EOLhyphen"/>ing before he dies to ſhare a fathers bleſſing and counſell among them: his father before he died had both bleſs'd and counſel'd him; and he now dying, is deſirous to do the like alſo for his children.</p>
+            <pb n="2" facs="tcp:113437:6"/>
+            <p> Wherein is held forth a paterne moſt worthy the imitation of all carefull parents, who, though they cannot on their death-beds (as <hi>Jacob) propheſie</hi> a bleſſing, yet may they <hi>pray</hi> for one; and may hope alſo the words of a dying parent will leave impreſ<g ref="char:EOLhyphen"/>ſion on their children, although poſſibly they have ſleighted whatever counſell hath been given before.</p>
+            <p>In this chapter is recorded the whole carriage of the buſineſſe, how the Patriarch beſpeaks his chil<g ref="char:EOLhyphen"/>dren, and what portions he leaves to each of them: The whole chapter being nothing elſe, but (as <hi>Luther</hi> ſtiles it) <hi>The last will and teſtament of the Patriarch Jacob.</hi>
+            </p>
+            <p>The verſes that I have choſen out of it, do treat con<g ref="char:EOLhyphen"/>cerning <hi>Joſeph;</hi> the elder of the two darlings of <hi>Jacob,</hi> his beloved <hi>Joſeph:</hi> And may either be lookt upon as entire and abſolute, or elſe as they uſher in the words that follow after.</p>
+            <p>Take them as they refer to that which follows, and ſo they are the preface to that full and ample bleſſing, which <hi>Jacob</hi> was now ready to pronounce upon the head of his dear <hi>Joſeph.</hi>
+            </p>
+            <p>The Patriarch fearing perhaps leſt <hi>Joſephs</hi> bleſſing, being greater then that of his other brethren, might therefore expoſe him anew to their envy, before he proceeds to bleſſe him, he therefore firſt prefaces ſomething of <hi>Joſephs</hi> goodneſſe, as alſo of his bre<g ref="char:EOLhyphen"/>threns former unkindneſſe, if haply by the mention thereof he might prevent their envy.</p>
+            <p>Look upon them as abſolute, and incoherent (in which capacity I ſhall deal with them) and ſo we ſhall perceive them to be <hi>Ioſeph in little,</hi> or, <hi>an abſtract</hi>
+               <pb n="3" facs="tcp:113437:6"/> 
+               <hi>of the life and</hi> (if I may ſay ſo) <hi>adventures of Ioſeph.</hi> And thus lookt upon, they offer to your view theſe particulars.</p>
+            <p n="1">1. <hi>Joſeph</hi> encountred, aſſaulted, in theſe words, <hi>The archers have ſorely grieved him, ſhot at him and hated him.</hi>
+            </p>
+            <p n="2">2. <hi>Ioſeph</hi> unconquer'd, not prevailed upon by any aſſault or encounter of his enemies, in theſe words, <hi>But his bowe abode in ſtrength, and the armes of his hands were made ſtrong.</hi>
+            </p>
+            <p n="3">3. <hi>Ioſeph</hi> not only not conquered, but prevailing and wearing the trophies of his conqueſt, in theſe words, <hi>From hence is the ſhepherd, the ſtone of Iſrael.</hi>
+            </p>
+            <p n="4">4. The mean whereby all this is brought to paſſe, in theſe words, <hi>By the hands of the mighty God of Iacob.</hi>
+            </p>
+            <p>To open theſe particulars a little.</p>
+            <p>
+               <hi>The archers ſorely grieved him, ſhot at him, hated him.</hi> 
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Ad ver<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um &amp; amarifica<g ref="char:EOLhyphen"/>verunt cum, &amp; jaculati ſunt &amp; oderunt.</hi>
+               </note> The archers ſhot at him: By which are meant <hi>Ioſephs</hi> brethren that hated him, ſold him; whom therefore the Patriarch might now in his laſt words glance at, at once to leave a record of his abominating their cruelty towards their brother, as alſo haply to beget in them a deeper ſenſe of their faultineſſe there<g ref="char:EOLhyphen"/>in, of which they could not eaſily be over ſenſible.</p>
+            <p>
+               <hi>Ioſephs</hi> brethren, I ſay, are the archers that <hi>Iacob</hi> aimes at, as alſo all thoſe others that did practiſe a<g ref="char:EOLhyphen"/>gainſt the life or wellfare of <hi>Ioſeph.</hi>
+            </p>
+            <p>Nor is it ſtrange in Scripture, for perſecutours of the Saints to be accounted archers, and their malicious practiſing againſt them, either in word or deed, to be reckoned a ſhooting arrows at them. Thus I am ſure the perſecutour is deſcribed, <hi>Pſal.</hi> 11. 2. <hi>For loe</hi> (ſaies
+<pb n="4" facs="tcp:113437:7"/> he) <hi>the wicked bend their bowes, they make ready their arrow upon the string, that they may privily ſhoot at the upright in heart.</hi> In like manner you finde him de<g ref="char:EOLhyphen"/>ſcrib'd, <hi>Pſal.</hi> 64. 3. To which purpoſe alſo, if need were, might be added ſeverall other Scriptures.</p>
+            <p>In the Hebrew it is, The maſters of arrows ſhot at <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>omini ſagit<g ref="char:EOLhyphen"/>tarum, uti ſu<g ref="char:EOLhyphen"/>pra,</hi> cap. 37. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Dominus ſum<g ref="char:EOLhyphen"/>niorum, Peritus ſo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>iorum, ita Pro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 22. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>pro<g ref="char:EOLhyphen"/>cl<gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> ad iran</hi>
+               </note> him, and hated him; The maſters of arrows, that is, your prime archers, ſubtill, wilie enemies, accurate markes-men, ſuch as know how to kill dead with their malice: thereby intimating, <hi>The worſe the per<g ref="char:EOLhyphen"/>ſecutour is, he is the better archer.</hi> Haſt thou therefore a malicious heart againſt the Saints, a bad tongue, thou art then in Scripture language (although its no com<g ref="char:EOLhyphen"/>mendation) a good archer. <hi>The archers ſorely grieved him,</hi> &amp;c.</p>
+            <p>It follows, <hi>But his bowe abode in strength, and the</hi> 
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Ad verbum. Et habita vit in forti ar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us e<g ref="char:EOLhyphen"/>jus, &amp; robera<g ref="char:EOLhyphen"/>verunt ſe bra<g ref="char:EOLhyphen"/>chia ejus.</hi> Chald. <hi>Contriti ſunt ſortitud ne arcus corum, &amp; diſſoluti ſunt nervs brachij. corum.</hi> Sed <hi>obstat aſſixum textu Hebreo quod utrob<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> eſt ſingulare.</hi> Riv.</note> 
+               <hi>armes of his hands were made ſtrong.</hi> The Patriarch continues the allegory, and his meaning herein ſeems in ſhort this: That neither could any endeavour turne <hi>Ioſeph</hi> aſide from God, nor yet any practices of his enemies, bring upon him that deſtruction which they deſired. <hi>His bowe abode in ſtrength,</hi> &amp;c.</p>
+            <p>And this in the next place is aſcribed to God, in <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> manibus <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<g ref="char:EOLhyphen"/>tentis Iacob.</hi> Vul. <hi>Per ma<g ref="char:EOLhyphen"/>nus. Sunt qui ex epitheto</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>myſte<g ref="char:EOLhyphen"/>rium Trinitatis <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>antur, uti <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. verbo</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Gen. 1. 1. <hi>Sed <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ura. ſunt hujuſmodi caballiſtica.</hi>
+               </note> theſe words; <hi>By the hands of the mighty God of Iacob:</hi> So that whereas <hi>Ioſeph</hi> was preſerved from <hi>ſinning,</hi> as alſo, from <hi>ſinking;</hi> from <hi>ſinning,</hi> being aſſaulted by moſt powerfull temptation; from <hi>ſinking,</hi> being per<g ref="char:EOLhyphen"/>ſecuted with bittereſt malice; the Patriarch aſcribes it all to the graciouſly over ruling providence and hand of God.</p>
+            <pb n="5" facs="tcp:113437:7"/>
+            <p> From whence alſo, as 'tis in the laſt clauſe, <hi>Is the</hi> 
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Iud. Paſtor la<g ref="char:EOLhyphen"/>pi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Iſrael.</hi>
+               </note> 
+               <hi>Shepherd, the ſtone of Iſrael.</hi> That is, from which diſ<g ref="char:EOLhyphen"/>poſe of providence it's alſo come to paſſe, that <hi>Joſeph</hi> (for I conceive it's meant of him) I ſay, that <hi>Joſeph</hi> is become the ſhepherd of <hi>Iſrael,</hi> that is, the ſuſtainer and <note place="margin">
+                  <hi>Hinc Ioſephum appellat Syra. cides,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,</note> feeder of his father <hi>Iſrael</hi> and his family, which other<g ref="char:EOLhyphen"/>wiſe by reaſon of the ſore famine then abroad in thoſe countries, might have all periſhed: As alſo the ſtone of <hi>Iſrael</hi> too, which although ſuch ſometimes as the builders had refuſed, and his brethren had thrown aſide (herein, as in other things he being a type of Chriſt) yet now in regard he ſuſtained them all, was become the foundation and corner ſtone of the whole family. <hi>From whence is the Shepherd the ſtone of Iſrael.</hi>
+            </p>
+            <p>The ſumme of all is this much. Whereas <hi>Joſeph</hi> was malign'd, and ſold away into ſlavery by his bre<g ref="char:EOLhyphen"/>thren, nevertheleſſe God was with him and preſerv'd him, and in concluſion for a recompence, advances him to be both preſerver and head of them that ſold him.</p>
+            <p>Thus you have an account of the words as they are calculated to the condition of <hi>Ioſeph;</hi> which yet with little alteration will ſerve to repreſent the condi<g ref="char:EOLhyphen"/>tion of others alſo.</p>
+            <p>They ſhew forth the life and ſtory of our bleſſed Saviour: and ſo I may call them a <hi>little goſpel;</hi> They cleerly holding forth the chief occurrents of <hi>Ioſephs</hi> life, in all whereof <hi>Ioſeph</hi> was to be a type and fore<g ref="char:EOLhyphen"/>runner of our Saviour.</p>
+            <p>They will in great meaſure ſerve to repreſent from firſt to laſt the various ſtate and changes of the
+<pb n="6" facs="tcp:113437:8"/> Church: and ſo are an <hi>Epitome of Eccleſiaſticall hi<g ref="char:EOLhyphen"/>ſtory.</hi>
+            </p>
+            <p>And to come ſomewhat neerer, they lively deli<g ref="char:EOLhyphen"/>neate the preſent ſtate of matters in our own King<g ref="char:EOLhyphen"/>dom, eſpecially as they carry an aſpect towards the good people of it; and ſo I may call them, a brief <hi>Chronicle of the affairs of England.</hi>
+            </p>
+            <p>Yea, and which comes moſt full and home to the purpoſe in hand, they ſerve moſt aptly to declare the ſeverall paſſages of the affairs wherein your ſelves have been concern'd (Honourable and beloved) your ſelves, I ſay, who ſtand for the good people of the Kingdom, and are their repreſentees; and ſo I may call them, <hi>a compleat,</hi> although a ſhort <hi>Iournall of the preſent Parliament.</hi>
+            </p>
+            <p>They ſhew you <hi>Ioſeph</hi> low and in the wane: and hath not this ſometimes been your condition? They ſhew you <hi>Ioſeph</hi> ſupported: and have you even at the loweſt wanted your ſupports? They ſhew you <hi>Ioſeph</hi> in the end prevailing, and advanced far above the pitch of thoſe that hated him: and are you leſſe at this day? And the ſame wiſe and gracious hand that wrought for <hi>Ioſeph,</hi> doing all this for you alſo.</p>
+            <p>So that <hi>mutatis mutandis,</hi> how appoſitely may I ſay to you the preſent Parliament, and in you to all the godly people of the Kingdom: <hi>The archers have ſorely grieved you, ſhot at you and hated you, howbeit your bowe hath abode in strength, and the armes of your hands have been made ſtrong, by the hands of the mighty God of Iacob, from whence alſo you are become the ſhepherds and ſtone of England?</hi>
+            </p>
+            <p>Having thus cleered my way by opening the
+<pb n="7" facs="tcp:113437:8"/> words, your ſelves perceiving by this time they will not come altogether unſutable either to time or per<g ref="char:EOLhyphen"/>ſons; it remains I obſerve ſomething from them: from the firſt particular whereof, <hi>viz. Ioſeph</hi> encoun<g ref="char:EOLhyphen"/>tered, ſet upon, in theſe words, <hi>The archers ſorely grieved him, ſhot at him, hated him,</hi> you may pleaſe to take this;</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>1</label> 
+               <hi>It is incident to the beſt of men, to be infeſted with crafty malicious enemies.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>2</label> Secondly, from <hi>Ioſephs</hi> unconqueredneſſe, notwith<g ref="char:EOLhyphen"/>ſtanding any aſſault or encounter of his enemies, in theſe words, <hi>But his howe abode in ſtrength, and the armes of his hands were made ſtrong;</hi>
+            </p>
+            <p>
+               <hi>Although the godly are aſſaulted by enemies, yet are they not wholly overcome by them.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>3</label> Thirdly, from <hi>Ioſephs</hi> advancement, in theſe words, <hi>He is the ſhepherd and ſtone of Iſrael.</hi>
+            </p>
+            <p>
+               <hi>The Saints being aſſaulted, are not only not overcome, but in concluſion prevail, and become the head of their e<g ref="char:EOLhyphen"/>nemies.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>4</label> And then laſtly, from the means whereby <hi>Ioſeph</hi> is preſerved and advanced, in theſe words; <hi>By the hands of the mighty one of Iacob.</hi>
+            </p>
+            <p>
+               <hi>That the Saints are not overcome, yea, that prevailing they become the head of their enemies, they owe it to the gra<g ref="char:EOLhyphen"/>cious hand, and wiſe diſpoſe of God. The archers ſorely grieved him, ſhot at him, hated him, but his bowe,</hi> &amp;c.</p>
+            <p>I begin with the firſt of theſe; <hi>It is incident to the beſt of men, to be inſeſted with crafty malicious enemies.</hi>
+            </p>
+            <p>And who is there of the Saints that hath not had the experience hereof? and which of them either now upon earth, or already in Heaven, that ſometime
+<pb n="8" facs="tcp:113437:9"/> or other hath not been endangered by malicious ene<g ref="char:EOLhyphen"/>mies? What Lambe of Jeſus Chriſt, whom never Wolfe grind at? what Tuitle of his, which never any ravenous bird attempted upon? You ſee it <hi>Ioſephs</hi> caſe, the archers ſhot at, and galled him exceedingly; nor is he alone, I am ſure 'twas <hi>Davids</hi> caſe alſo, whom ever and anon thorowout his book of Pſalms, you finde either complaining of multitudes of cruell ene<g ref="char:EOLhyphen"/>mies, or elſe ſupplicating the Lord to be delivered from them.</p>
+            <p>I need not tell you 'twas the caſe of our Saviour, herein the Antitype of <hi>Ioſeph,</hi> whom <hi>Pſal.</hi> 22. 12. you finde complaining of bulls, many bulls, yea fat bulls encompaſſing of him, which bulls indeed never left puſhing and goring at him, till ſuch time as they had gored him to the heart, till they had puſht him into his grave.</p>
+            <p>And as it fared with the Captain of our ſalvation, ſo fares it with his followers: as with him the head, ſo fares it with the Church his body, and all the mem<g ref="char:EOLhyphen"/>bers of it. The Church in <hi>Egypt</hi> found a <hi>Pharaoh</hi> that <note place="margin">Exod. 1. 8.</note> knew not <hi>Ioſeph,</hi> nor would know them neither: In after-times what hard things did they ſuffer from <hi>Se<g ref="char:EOLhyphen"/>nacharib, Nebuchadnezzar, Antiochus,</hi> and ſuch like barbarous and ſavage enemies? In the formoſt times of the Goſpel, they were harraſed out by <hi>Rome</hi> hea<g ref="char:EOLhyphen"/>then: in theſe later daies, by <hi>Rome</hi> Antichriſtian: there being indeed this Law indiſpenſible laid upon all that will live godly in Chriſt Jeſus, <hi>They muſt ſuffer per<g ref="char:EOLhyphen"/>ſecution.</hi> 
+               <note place="margin">2 Tim 3. 12.</note>
+            </p>
+            <p>And this ſuffering of good men from bad, comes to paſſe in part from that immovable fewd, and irrecon<g ref="char:EOLhyphen"/>cilable
+<pb n="9" facs="tcp:113437:9"/> diſtance that is between them: there is an en<g ref="char:EOLhyphen"/>mity put between the ſeeds, from whence it comes to paſſe, that he that is after the fleſh, perſecutes him that is after the ſpirit, and by reaſon of which malicious inſtinct, the hound doth not more eagerly, chearfully, unweariedly purſue the fleeing hare, then theſe, al<g ref="char:EOLhyphen"/>though uninſtructed by any, as alſo unprovok'd, do readily follow the chaſe of the people of God.</p>
+            <p>Sometimes it comes to paſſe through the fault and folly of the godly themſelves, who grievouſly miſ<g ref="char:EOLhyphen"/>carrying, are therefore delivered over into the hands of thoſe that hate them, to be chaſtened by them.</p>
+            <p>But never doth it happen, that the Saints fall into the hands of ſuch as hate them, but it comes to paſſe by the wiſe and all-diſpoſing hand of God: And he hath ſeverall great ends in it:</p>
+            <p>Sometimes to give wicked men thereby an oppor<g ref="char:EOLhyphen"/>tunity of filling up the meaſure of their ſin. For as God hath ſet every Saint a <hi>meaſure of grace,</hi> which he muſt come up to before he dies; in like manner hath he ſet to every reprobate a determinate and fixed <hi>ſize and meaſure of ſin,</hi> which that ſome of them may fill up, they are therefore permitted to afflict and perſe<g ref="char:EOLhyphen"/>cute his people.</p>
+            <p>Sometimes to <hi>prove</hi> the Saints, who by their ſuffer<g ref="char:EOLhyphen"/>ings from evil men, are tried, as gold is tried by the fire, the tried Chriſtian being the beſt Chriſtian, as the tried gold is the beſt gold.</p>
+            <p>Sometimes to <hi>purge</hi> them, ſo that look as the fan purges away the chaffe from the wheat, the furnace the droſſe from the good metall, ſo do the ſufferings of the godly, purge away what is droſſie and bad in them alſo.</p>
+            <pb n="10" facs="tcp:113437:10"/>
+            <p> And as to purge them, ſo to <hi>make them more hea<g ref="char:EOLhyphen"/>venly,</hi> that as it is obſerved, the waters of the deluge raiſed the Arke neerer Heaven, ſo do theſe flouds of ungodlineſſe and ungodly men, raiſe the Saints higher above the world, and ſo neerer alſo unto Heaven. In ſhort, that I ſtay not too long in common-placing the point, my aime in this and the other that follow being eſpecially application; whatever other end the Lord deſignes, in giving his people over into their e<g ref="char:EOLhyphen"/>nemies hands, this he fails not to bring to paſſe, aſſured<g ref="char:EOLhyphen"/>ly <hi>to do his people good in the later end.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> And is this ſo? are perſecutions and ſufferings inci<g ref="char:EOLhyphen"/>dent to the beſt of men? is this the common caſe of the Saints? was this the caſe of <hi>Ioſeph?</hi> and hath not this been the caſe of the good people of this Kingdom? hath not this been the hard lot of the pre<g ref="char:EOLhyphen"/>ſent Parliament? yea, doth face more anſwer face then their condition and his do in this matter reſemble one another? Give me leave to produce an inſtance in a few things, to make out the parallel: nor will it at all marre your thankſgiving this day, nay, it will helpe and heighten it rather, that I mention ſome of that trouble and miſery, from which in good meaſure you are already delivered.</p>
+            <p>Firſt therefore we read in ſome of the Chapters foregoing, that <hi>Ioſeph</hi> was <hi>hated, maligned,</hi> ſo alſo <note place="margin">Cha. 37. 4.</note> ſpeaks the text, <hi>the archers ſhot at him, and hated him.</hi> And hath not this been the condition of the godly of this Kingdom? hath not this been the hard lot of the preſent Parliament? yea, tell me what thing in the world hath been ſo maligned as you have been? The malice of former times ſeems to be but childrens play,
+<pb n="11" facs="tcp:113437:10"/> in compariſon of that is now adayes: they were but <hi>children in malice,</hi> to uſe the Apoſtles phraſe, in com<g ref="char:EOLhyphen"/>pariſon <note place="margin">1 Cor. 14. 20.</note> of the full-grown malignants of our times.</p>
+            <p>The Roman hiſtorian making mention of an en<g ref="char:EOLhyphen"/>counter between <hi>Brutus</hi> the Conſul, and <hi>Aruns Tar<g ref="char:EOLhyphen"/>quinius</hi> 
+               <note place="margin">
+                  <hi>Florus</hi> lib. 1. cap. 10.</note> the raviſher of <hi>Lucretia,</hi> upon the fall of both of them in the encounter, has this fancie, ſaies he, <hi>Mu<g ref="char:EOLhyphen"/>tuo vulnere periere, quaſi adulterum Brutus uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad inferos ſequeretur:</hi> They both died together, as if <hi>Brutus</hi> had meant to purſue the raviſher even to hell it ſelf. This is but his fancie. But our daies and Climate hath brought forth men of ſuch incomparable malice, as (if they are not belied) have profeſs'd a willingneſſe to go to <hi>hell indeed,</hi> ſo that they might carry but ſome leading men of Parliament along with them. And truly if <hi>Malignants</hi> are <hi>archers,</hi> as my text ſayes they are, for my part I know none to be compared with the <hi>Engliſh archer.</hi>
+            </p>
+            <p>But further, <hi>Ioſeph</hi> was <hi>ſcorned, derided;</hi> they called him <hi>Dreamer,</hi> ſayes the ſtory, and they <hi>could not ſpeak</hi> 
+               <note place="margin">Chap. 37. 4. &amp; 19.</note> 
+               <hi>peaceably to him.</hi> And are not both you and we herein become like <hi>Ioſeph?</hi> Oh the ſpitefull ſcornes, con<g ref="char:EOLhyphen"/>temptuous names, of Round-head, Puritan, Anabap<g ref="char:EOLhyphen"/>tiſt, Rebell, <hi>&amp;c.</hi> that have been daily caſt upon us! Oh the ſcandalous, malicious Declarations, invectives, Libels compoſed of the elixar and ſpirits of malice, that have been ſet forth againſt us! Oh the deſperate ſurmizes inſinuated, the horrid criminations the ene<g ref="char:EOLhyphen"/>my hath forged, in all whereof they have preciſely <note place="margin">Calum<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iare fortiter ali<g ref="char:EOLhyphen"/>quid adhae<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>bit.</note> obſerved their maſters rule, calumniating with all their might, hoping that ſomewhat at leſt wayes would ſtick upon us.</p>
+            <pb n="12" facs="tcp:113437:11"/>
+            <p> Again, <hi>Joſeph</hi> was <hi>ſold, ſold into ſlavery,</hi> and this together with the former done by his brethren. And <note place="margin">Gen 37. 27.</note> have not we of this Kingdome been bought and ſold? hath it not been attempted, yea effected in great mea<g ref="char:EOLhyphen"/>ſure, to bring us (as <hi>Ioſeph)</hi> into Egyptian ſlavery? I beſeech you what were your High Commiſſion or Star<g ref="char:EOLhyphen"/>chamber elſe, but thoſe hard task-maſters that <hi>Pha<g ref="char:EOLhyphen"/>raoh</hi> had ſet over us? and what all the taxations, mo<g ref="char:EOLhyphen"/>nopolies, levies, illegall impriſonments we groaned under, ſave only the apparent badges and demonſtra<g ref="char:EOLhyphen"/>tions of our ſlavery? yea and all this done by our <hi>brethren,</hi> our own fleſh and bloud, even the men of our own nation. I appeal to you, beloved, were they not Engliſh Counſellours that ſold us into Egyptian bon<g ref="char:EOLhyphen"/>dage? were they not Engliſh Prelates that conſpired to ſell their brethren of the Miniſtry into Romiſh ſlavery? <note place="margin">Gen. 39. 11, 11.</note>
+            </p>
+            <p>Again, <hi>Ioſeph</hi> was ſold into the hands of a bad mi<g ref="char:EOLhyphen"/>ſtris, he hapned to meet with a very bad miſtris. And do I need to ſpeak out and ſay, how like in this we have been to <hi>Ioſeph?</hi> 
+               <note place="margin">Gen. 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 37. 18.</note>
+            </p>
+            <p>Further, <hi>Ioſephs</hi> wanton miſtris, when ſhe could not have her will of him, ſhe practiſes to deſtroy him; adultery and bloud-ſhed well cohering: And ſince ours could not obtaine her will upon us, oh the tragedies, oh the bloud that ſhe hath ſhed in the three Kingdoms!</p>
+            <p>Once more, <hi>Ioſeph</hi> was forgotten in his ſufferings, <note place="margin">Gen. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. <hi>ult.</hi>
+               </note> and <hi>Pharaohs</hi> butler, who had received kindneſſe from him when in like condition, yet being himſelf at liber<g ref="char:EOLhyphen"/>ty, <hi>remembers not the affliction of Ioſeph.</hi> And hath it not ſo fared with us alſo? and have not ſome of our beyond-ſea neighbours, your Low Countries I mean,
+<pb n="13" facs="tcp:113437:11"/> have they not, I ſay, forgotten our affliction? and in<g ref="char:EOLhyphen"/>ſtead of helping us forth of it (which had been but paying the debt they owed us) have they not rather by continuall ſupplying the enemy, holpen forward our affliction?</p>
+            <p>So that if becauſe <hi>Ioſeph</hi> was reproached, hated, ſold, <hi>&amp;c.</hi> 'tis ſaid, the archers ſorely grieved him, ſhot at him, hated him; how truly may it be ſpoken of our ſelves alſo? we having ſeen our own and <hi>Ioſephs</hi> condition in all the ſeverals forementioned, a cleer, an exact parallel: which yet we ought not to have been diſcouraged at, neither meerly from hence to have grown jealous of our own, or the goodneſſe of the cauſe we have engaged in, it being abundantly cleered both from <hi>Ioſephs</hi> caſe, as alſo from ſeverall others, That 'tis incident to the beſt of men, to be infeſted with dangerous and malicious enemies.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>2</label> 
+               <hi>Although the godly are infested and aſſaulted by ene<g ref="char:EOLhyphen"/>mies, yet are they not wholly overcome by them.</hi>
+            </p>
+            <p>This was <hi>Ioſephs</hi> caſe: <hi>The archers</hi> (ſaies the text) <hi>ſhot at him,</hi> &amp;c. but 'tis added, <hi>His bowe abode in strength, and the armes of his hands were made ſtrong:</hi> All his brethrens malice could go no farther then to ſell him; and being ſold, and ſold into the hands of a wicked miſtris, he was neither overcome by her ſol<g ref="char:EOLhyphen"/>licitations to deſtroy his ſoul, nor for refuſall of her, could ſhe ſo far prevail as to take away his life. 'Twas <hi>Davids</hi> hard lot (as was before ſhown) to be infeſted with cruelleſt enemies; <hi>Saul</hi> and his Courtiers ſhot many a poiſoned arrow at him: yea, ſo oft was he ſhot at, and the arrows fell ſo thick about him, as that he gives himſelf for loſt, concludes he ſhall be hit at laſt,
+<pb n="14" facs="tcp:113437:12"/> makes account he <hi>ſhould one day periſh by the hand of Saul.</hi> But that it was his weakneſſe and miſtake, the event abundantly cleers: for if you conſult the title of <hi>Pſal.</hi> 18. you finde it expreſly this, <hi>A Pſalme of David, the ſervant of the Lord, who ſpake unto the Lord the words of this ſong, in the day that the Lord delivered him from the hand of all his enemies, and from the hand of Saul.</hi> Obſerve it, <hi>David</hi> that fears that one day he ſhall periſh by the hand of <hi>Saul,</hi> one day gives thanks for an abſolute deliverance, as from all other enemies, ſo alſo from the hand of his enemy <hi>Saul.</hi>
+            </p>
+            <p>The Churches condition hath been alike alſo, as her ſelf expreſſes, <hi>Pſal.</hi> 129. 1, 2. <hi>Many a time have they afflicted me from my youth, may Iſrael now ſay, Many a time have they afflicted me from my youth:</hi> what follows? <hi>but they have not prevailed againſt me.</hi>
+            </p>
+            <p>And no marvell; for although it well con<g ref="char:EOLhyphen"/>ſiſts with Gods ends, that ſometimes his people be humbled and brought very <hi>low,</hi> yet doth it not at all, that the enemy ſhould be <hi>lifted up over high:</hi> which yet they would be, if at any time they could obtain an abſolute conqueſt upon his people: To this pur<g ref="char:EOLhyphen"/>poſe ſpeaks the Lord, <hi>Deut.</hi> 32. 26, 27. <hi>I thought</hi> (ſaies the Lord) <hi>to have ſcattered my people into corners, and cauſed their remembrance to have ceaſed from men: did I not fear the rage of their enemies, lest their adverſaries ſhould behave themſelves ſtrangely, and leſt they ſhould ſay, Our hand is high, and the Lord hath not done all this.</hi> As if he had ſaid, It very well ſorts with my purpoſe to bring my people <hi>very low,</hi> if ſo be the ſinking of that balance over-low, would not over-much <hi>lift up</hi> the balance of their enemies.</p>
+            <pb n="15" facs="tcp:113437:12"/>
+            <p> Again, although it very well agrees with the Lords intent and meaning, that his people be perſecuted, and ſuffer from their enemies, that their enemies there<g ref="char:EOLhyphen"/>by might be ripened for deſtruction, yet is it not at all his minde, that together with their <hi>own,</hi> the enemy ſhould bring deſtruction upon his <hi>people alſo;</hi> which yet 'tis apparent they do, when they wholly over-overcome them. And further, although it be the minde of God that his people ſhould ſuffer by evil men, to the intent that by thoſe ſufferings of theirs they might be both prov'd and purg'd; yet is it not his pleaſure, that either the furnace ſhould be made ſo hot, or they continue ſo long in it, till he loſe his me<g ref="char:EOLhyphen"/>tall, which would certainly come to paſſe, did the ene<g ref="char:EOLhyphen"/>my wholly prevail: For if the <hi>rod of the wicked ſhould</hi> 
+               <note place="margin">Pſal. 125. 3.</note> 
+               <hi>rest upon the lot of the righteous,</hi> would they not at laſt <hi>put forth their hand and touch iniquity?</hi> From all which it is a cleer caſe, That although the Saints may be aſ<g ref="char:EOLhyphen"/>ſaulted, infeſted by enemies, yet are they not wholly overcome by them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> And hath not this been the caſe of the godly of this Kingdom? hath not this been the caſe of the preſent Parliament? <hi>Honourable, beloved,</hi> it cannot be denied, but that the archers have ſorely grieved you, ſhot at you, hated you; nevertheleſſe hath not your bowe abode in ſtrength, and the armes of your hands have been made ſtrong, and to this day they have not ob<g ref="char:EOLhyphen"/>tained a full conqueſt over you? Indeed crafty ma<g ref="char:EOLhyphen"/>licious men have tried their utmoſt, have vomited upon you their moſt deadly poiſon, and all to blaſt you, to make you infamous for ever: but have they prevailed? have they by all their canker and venom
+<pb n="16" facs="tcp:113437:13"/> belcht forth upon you, been able to deprive you of your name and honour? or rather ſhall not you be had in honour, when their memoriall ſhall rot and pe<g ref="char:EOLhyphen"/>riſh, and be blotted out from under Heaven? I ſay not but you have ſometime been reduced to exigents and lowneſſe, you have been brought ſometimes to the pits brink, if not thrown with <hi>Ioſeph</hi> into the pit; but yet hath ever the pit ſhut its mouth upon you, and rendred you hopeles of recovering out of it? If (as the Apoſtle ſpeaks) you have been troubled on <note place="margin">2 Cor. 4. 8, 9.</note> every ſide, yet have you been diſtreſſed? if perplexed at any time, yet have you been in deſpair? if perſecu<g ref="char:EOLhyphen"/>ted, have you been altogether forſaken? if caſt down, yet have you been deſtroyed? When were your affairs ſo loſt, ſo broken as now the enemies are? and when hath your bowe ſo much ſlugg'd, or your armes grown ſo feeble? I mean, when was ever your condition ſo deſperate, that when the enemy in any of their expreſſes or Declarations, hath ſhot <hi>Traitour</hi> and <hi>Rebell</hi> at you, you might not, notwithſtanding any lowneſſe of your condition, have ſhot back ſome<g ref="char:EOLhyphen"/>thing elſe in anſwer, then <hi>your humble ſubjects?</hi>
+            </p>
+            <p>The archers I muſt needs ſay, have ſhot ſome neer ſhoots, that of <hi>Brainford</hi> was a neer one, and ſo was that of <hi>Briſtow:</hi> our loſſe of <hi>Briſtow</hi> went exceeding neer us; but (bleſſed be the Lord) never did any hit the <hi>heart</hi> to this day: <hi>London, Weſtminſter,</hi> whitherto the heads of the Tribes are gathered, and which are in<g ref="char:EOLhyphen"/>deed the very <hi>heart of the Kingdom,</hi> theſe have been ſafe, as if the Lord had ſaid of them, as ſometime of <hi>Ieruſalem, The enemy ſhall not ſhoot an arrow into them.</hi> 
+               <note place="margin">Iſa. 37. 33.</note> Their aim hath been indeed at us from the beginning,
+<pb n="17" facs="tcp:113437:13"/> but they have either ſhot ſhort, or wide, or over, at leaſt waies ſomething or other hath been the matter, and they have not hit the marke they aimed at to this day. How many dayes have they ſet themſelves for their coming to <hi>London,</hi> boaſting ſuch a time they would certainly come and divide the ſpoil of <hi>London,</hi> and ſatisfie their rage and luſt both together? but how may I ſay to them as our Saviour to <hi>Peter,</hi> ſaies he, <hi>when thou waſt young, thou girdest thy ſelf, and went whither thou wouldeſt, but when thou art old, thou ſhalt ſtretch out thy hands, and another ſhall gird thee:</hi> So I to them, when they were joviall and proſpered, how oft have they <hi>pointed themſelves</hi> a day of coming hither, though in the winding up, we ſee them glad to come in by a day of <hi>your pointing?</hi> they themſelves have often heretofore <hi>ſet themſelves</hi> a day for their coming to <hi>London,</hi> now let them look to it, if they come not in by the day of <hi>your ſetting.</hi>
+            </p>
+            <p>So that in this alſo you perceive your condition alike to <hi>Joſephs,</hi> which ſhould exceedingly animate you in your worke; your bowe hath abode in ſtrength, and the armes of your hands have been made ſtrong, you neither being hitherto ſo far prevailed upon as to forego a good conſcience, nor yet to be ruined and deſtroyed for keeping of it; God having made good to you this truth alſo, that however the people of God may be aſſaulted, infeſted by enemies, yet are they not wholly overcome by them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>3</label> 
+               <hi>The godly being aſſaulted, are not only not overcome, but in concluſion prevail, and become the head of their enemies.</hi>
+            </p>
+            <p>Thus it was with <hi>Joſeph,</hi> who although ſometime
+<pb n="18" facs="tcp:113437:14"/> the moſt abject maligned one of all <hi>Iſraels</hi> family, yet at laſt becomes both the ſhepherd and ſtone of <hi>Iſrael:</hi> Thus it happened to our Saviour, who al<g ref="char:EOLhyphen"/>though a ſtone deſpiſed and rejected of the builders, yet in concluſion becomes the head of the corner. <note place="margin">Pſal. 118. 12.</note>
+            </p>
+            <p>And this comes to paſſe, ſometimes that the godly may be made amends unto for their ſufferings: Some<g ref="char:EOLhyphen"/>times the Lord recompenſes the ſervices of wicked men; thus had <hi>Nebuchadnezzar</hi> the conqueſt and ſpoil of <hi>Egypt</hi> for his ſervice done againſt <hi>Tyre:</hi> and if <note place="margin">Ezek. 29. 18, 19, 20.</note> he reward wicked mens <hi>ſervices,</hi> will he not much more recompenſe his peoples <hi>ſufferings?</hi>
+            </p>
+            <p>Sometimes to <hi>vex</hi> and torment their enemies, to whom what greater vexation, then to ſee the men that they ſo much deteſted, advanced above them? What greater torment to <hi>Haman,</hi> then that <hi>Mordecai</hi> ſhould be the man whom the King would honour?</p>
+            <p>Sometimes for the <hi>good</hi> of the enemies themſelves, and this is plainly the caſe in hand: For had not <hi>Jo<g ref="char:EOLhyphen"/>ſeph</hi> been ſold into <hi>Egypt,</hi> and there advanced, both they that ſold him, yea and that whole family might have been loſt and deſtroyed, through want and fa<g ref="char:EOLhyphen"/>mine. And had not our Saviour ſuffered, that after<g ref="char:EOLhyphen"/>terward he might be exalted, how had neither any of thoſe from whom he ſuffered, or any other been ſaved by him?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> And is not this truth made good to you this day? and are not you ſo far from being overcome, that in<g ref="char:EOLhyphen"/>deed you have prevailed, and are raiſed far above the lowneſſe of your enemies? Surely you have pro<g ref="char:EOLhyphen"/>ſpered wonderfully of late dayes, you have prevail'd to admiration; your bowe hath not only been ſtrong,
+<pb n="19" facs="tcp:113437:14"/> as <hi>Joſephs,</hi> but like the bowe of <hi>Jonathan that turned not back, that returned not empty:</hi> it has proſpered ſo <note place="margin">2 Sam. 1. 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> of late, as if like that <hi>bowe in the clouds,</hi> it did aſſure us we ſhould no more have a <hi>deluge,</hi> a <hi>deluge of bloud</hi> in <hi>England.</hi> How every whit as like are you become to <hi>Joſeph</hi> in your proſperous condition, as you ſaw your ſelves like him erewhile in your affliction and ſufferings? and if in regard of the likeneſſe of your ſufferings I ſaid, erewhile, the archers have ſorely grieved you, ſhot at you, hated you: how truly for your alike proſpering may I now ſay, Your bowe hath abode in ſtrength, and the armes of your hands have been ſtrengthned, and you are this day become the ſhepherds and ſtone of <hi>England?</hi> Give me but leave a little to make out this parallel alſo.</p>
+            <p>Firſt therefore, we finde that <hi>Joſeph</hi> after depreſſion <note place="margin">Gen 41. 41.</note> and ſufferings for a while, is in concluſion made <hi>Ruler over all the land of Egypt:</hi> And is not your condition parallel, who whatever your former difficulties and troubles have been, and howſoever ſtraitned and confined, yet are now become Rulers even over all the Kingdom?</p>
+            <p>But further, it happened that upon <hi>Joſephs</hi> advance<g ref="char:EOLhyphen"/>ment and prevailing, his brethren (thoſe archers that ſhot at him and hated him) do now come crouching, <note place="margin">Gen. 42. 6.</note> yea proſtrating themſelves before him. And who ſees not ſince your prevailings, thoſe archers that have ſhot at you, and ſorely grieved you, now that their bowes are broken, and their arrows ſpent, I mean their eſtates conſumed, and their credits crackt, ſub<g ref="char:EOLhyphen"/>mitting themſelves, and daily comming in to com<g ref="char:EOLhyphen"/>pound and make their peace with you? and (as the
+<pb n="20" facs="tcp:113437:15"/> Pſalmiſt fully expreſſes the like caſe) the beaſts of the reeds, by which the companies of <hi>archers</hi> are <note place="margin">Pſal 68. 31. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Feras arundi<g ref="char:EOLhyphen"/>nis, vide</hi> Ai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſw.</note> meant, <hi>ſubmitting themſelves every one of them with pieces of ſilver.</hi> Only herein I could wiſh the parallel came more home; <hi>Joſeph</hi> when his brethren preſent<g ref="char:EOLhyphen"/>ed themſelves before him, <hi>ſpake roughly unto them, told them they were ſpies:</hi> and till he perceived from them <note place="margin">Gen. 41. 7, 8, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> ſome ſenſe of their faultineſſe and ſin, he did not (ſaies the ſtory) uncaſe, and diſcover himſelf to be their brother <hi>Joſeph.</hi> And ought not you to do ſo too? and is it ſufficient that you accept from your malignant brethren a moiety of their eſtates, and they pay down <hi>their price of bloud,</hi> without expe<g ref="char:EOLhyphen"/>cting from them any acknowledgement at all of their <hi>bloud-guiltineſſe?</hi> and ſhould not ſome of them at leaſt wiſe be taken and challenged as <hi>ſpies,</hi> which if done, how thinke you, would it not prove truer of them then of <hi>Joſephs</hi> brethren?</p>
+            <p>Again, <hi>Joſeph</hi> ſometime dreamed that the <hi>Sunne,</hi> and <note place="margin">Gen. 37. 9.</note> 
+               <hi>Moon</hi> and <hi>Starres did obeyſance before him,</hi> and it came to paſſe accordingly: The <hi>Starres</hi> which were his <hi>bre<g ref="char:EOLhyphen"/>thren</hi> did ſo, in like manner did the <hi>Sunne</hi> and <hi>Moon</hi> alſo: And have ſo many of your brethren come in, and ſubmitted to you, and ſome of them <hi>ſtarres of the firſt magnitude:</hi> and may it not be expected, the <hi>Sunne</hi> and <hi>Moon</hi> (which are next unto them) will do ſo too? If they do not, for my part I think they may do worſe, however, I am confident, it will be never the worſe for you if they do not.</p>
+            <p>Yet further, Was <hi>Joſeph</hi> advanced to be the <hi>ſhepherd</hi> and <hi>feeder</hi> of <hi>Iſrael,</hi> and are not you at this day be<g ref="char:EOLhyphen"/>come the <hi>ſhepherds</hi> of <hi>England,</hi> the whole family of
+<pb n="21" facs="tcp:113437:15"/> 
+               <hi>England,</hi> as far as under your command, depending upon you? yea and that little life, that yet remains in bleeding and famiſht <hi>Ireland,</hi> being by your care and means ſuſtained and preſerved alſo.</p>
+            <p>Again, Did <hi>Joſeph</hi> become the <hi>ſtone of Iſrael,</hi> and are not you become the <hi>ſtone of England?</hi> Indeed a ſtone of <hi>offence</hi> and <hi>ſtumbling</hi> to <hi>Popery, Prelacy, Tyranny,</hi> and a<g ref="char:EOLhyphen"/>gainſt which both they and their abettors impinging, are ſtumbled and fallen, and I hope ſhall never riſe again: but yet a <hi>precious foundation ſtone,</hi> for Religion and publike liberty, and by means whereof, both of them are ſuſtained and upheld at this day in <hi>England.</hi>
+            </p>
+            <p>Again, For the manner and way of <hi>Joſephs</hi> advance<g ref="char:EOLhyphen"/>ment and getting up; Had <hi>Ioſeph</hi> ever become <hi>Lord</hi> over <hi>Egypt,</hi> had he not firſt been ſold a <hi>ſlave</hi> into <hi>E<g ref="char:EOLhyphen"/>gypt?</hi> was not his ſelling into <hi>Egypt</hi> (intended indeed to his ruin,) that which was the very occaſion and vantage ground to all the great honour and favour there beſtowed upon him? And I appeal to your ſelves, Honourable and beloved, had publike liberties (which are the cauſe you own, and ſtand for) gained ſo much ground as at this day they have upon arbi<g ref="char:EOLhyphen"/>trary power, if arbitrary power had not enterpriz'd the ſubverſion of all juſt liberties? and had not ſome <hi>Romiſh brokers,</hi> endeavoured to barter away our Reli<g ref="char:EOLhyphen"/>gion to <hi>Rome</hi> and Popery, had it in any likelihood a<g ref="char:EOLhyphen"/>rived to that height of reformation and purity 'tis come to at this day? We had been (as <hi>Iſsachar)</hi> con<g ref="char:EOLhyphen"/>tent to have borne our burdens, if ſo be our task<g ref="char:EOLhyphen"/>maſters had not ſo long added to their weight, till at laſt they became utterly inſupportable. And had your ſelves (Noble Patriots) been ſo <hi>high</hi> as now you
+<pb n="22" facs="tcp:113437:16"/> are, if it had not been endeavoured to lay you in the <hi>loweſt duſt?</hi> and tell me, are you not grown great, even by the ſucceſſe of thoſe battels, which were on purpoſe by the enemy ſtricken with you, to bring you to nothing? So that though I ſay not of you, <hi>perijſtis, niſi perijſtis,</hi> ye had been undone, if ye had not been undone; yet may I ſay confidently, Ye had not been <hi>made,</hi> as now you are, if firſt of all it had not been at<g ref="char:EOLhyphen"/>tempted to <hi>undo you.</hi>
+            </p>
+            <p>Once more, <hi>Ioſeph</hi> was not only lifted up to his own advancement and honour, but thereby even thoſe that hated him fared the better alſo: And is not your caſe alike? For though at preſent your Malignants ac<g ref="char:EOLhyphen"/>knowledge no beholdingneſſe to you; yet if hereafter they ſhall begin to look toward Religion, or ſhall have need to ſeek for ſuccour from the Laws and rights of the people of <hi>England,</hi> muſt they not be be<g ref="char:EOLhyphen"/>holding ſor preſervation of them (under God) to the preſent Parliament?</p>
+            <p>So that to ſumme up all. If therefore becauſe of <hi>Io<g ref="char:EOLhyphen"/>ſephs</hi> advancement, his brethrens ſubmiſſion, and his ſuſtaining both them and that whole family, 'tis ſaid of him. <hi>His bowe abode in strength, and the armes of his hands were made ſtrong,</hi> and he is therefore called, the <hi>ſhepherd</hi> and <hi>ſtone of Iſrael;</hi> how truly may the like be ſpoken of your ſelves? your caſe in all the particulars above mentioned (as is apparent) comming up fully unto <hi>Ioſephs;</hi> God having made good to you this truth alſo, The godly being aſſaulted, are not only not overcome, but in concluſion prevail, and become the preſervers and head of thoſe that hate them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſerv. </seg>4</label> 
+               <hi>That the godly are not overcome, but in concluſion</hi>
+               <pb n="23" facs="tcp:113437:16"/> 
+               <hi>prevail, they ow it to the over-ruling power and hand of God.</hi>
+            </p>
+            <p>So much is here acknowledged by the Patriarch in the behalfe of his <hi>Ioſeph,</hi> ſayes he, <hi>his bowe abode in strength, and the armes of his hands were made ſtrong:</hi> but how comes it to paſſe? he adds, <hi>by the hands of the mighty one of Iacob.</hi> If <hi>Ioſephs hands</hi> are made <hi>strong,</hi> it is by the <hi>ſtrong hands</hi> of the God of <hi>Iacob.</hi>
+            </p>
+            <p>So much likewiſe is acknowledged by the Pſalm<g ref="char:EOLhyphen"/>iſt <note place="margin">Pſa. 118 22, 23.</note> in the behalf of himſelf, as a ſhadow and type of Chriſt; ſayes he, <hi>The ſtone which the builders refuſed, is now become the head of the corner: This is the Lords do<g ref="char:EOLhyphen"/>ing.</hi> If Chriſt become a ſtone of rejection, this is <hi>mans doing;</hi> but if he become a corner ſtone, this (ſayes the Pſalmiſt) <hi>is the Lords doing.</hi>
+            </p>
+            <p>And to ſay the truth, That <hi>Ioſephs</hi> brethren ſhould pack him away into <hi>Egypt,</hi> (as they thought,) for his <hi>destruction,</hi> but indeed for his <hi>advancement,</hi> and that <hi>Ioſephs advancement</hi> ſhould become the means of <hi>their preſervation:</hi> In like manner, that Chriſts <hi>abaſement</hi> from his brethren, ſhould make way for his <hi>exaltation,</hi> and his <hi>exaltation,</hi> a means of both their and our <hi>ſal<g ref="char:EOLhyphen"/>vation</hi> (I mean Jews and Gentiles ſalvation) whoſe doing can this be but the Lords doing? and when men bring any thing to paſſe, by endeavouring to pre<g ref="char:EOLhyphen"/>vent it, and accompliſh it, by making what oppoſition they can againſt it (which apparently was done in the caſe in hand) what elſe can this be but the will and work of God?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> And muſt not the like be acknowledged concern<g ref="char:EOLhyphen"/>ing your prevailing and ſucceſſes alſo? and is not all to be aſcribed unto a powerfull and gracious diſpoſe
+<pb n="24" facs="tcp:113437:17"/> and hand of God? If you have counſelled well, is it not becauſe <hi>God was in the aſsembly of the Iudges,</hi> and di<g ref="char:EOLhyphen"/>rected <note place="margin">Pſal. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.</note> you? If your Armies have fought well, is it not becauſe God hath <hi>taught their hands to war, and their fingers to fight,</hi> yea, <hi>himſelf fought for them?</hi> If by ſtorm and ſcalado they have taken in the ſtrongeſt pieces of the enemy, is it not by <hi>their God they have</hi> 
+               <note place="margin">Pſal. 18. 19.</note> 
+               <hi>leaped over the wall?</hi> And in this laſt mercy, which this day is ſet apart to bleſſe God for; the taking in of that <hi>ſtrong and important City of Cheſter,</hi> although they that had the conduct of worke, have no waies been want<g ref="char:EOLhyphen"/>ing either in diligence or faithfullneſſe, yet muſt not both they, and we ſay in the Pſalmiſts language, <hi>Who</hi> 
+               <note place="margin">Pſal. 60. 9, 10.</note> 
+               <hi>hath led us into the strong City? haſt not thou, O God?</hi>
+            </p>
+            <p>I thinke but how it hath been with us, when God at any time hath withdrawn his helping hand from us: When God hath not preſided in our counſels, what weakneſſes, what diſtractions have accompanied them? how ſlow hath been their motion, and per<g ref="char:EOLhyphen"/>haps in concluſion altogether to no purpoſe?</p>
+            <p>And for action too, who knows not that no ſooner God has <hi>turned his back upon us,</hi> but we have <hi>turned our backs upon the enemy?</hi> and when our mighty ones have not found with them the <hi>Lords hand,</hi> neither have any of our mighty ones been able to <hi>finde their own</hi> 
+               <note place="margin">Pſal. 7<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 5.</note> 
+               <hi>hands.</hi>
+            </p>
+            <p>And had the Lord now of late withdrawn his hand, what had been the conſequence? what elſe, but your bowes broken, your arrows conſumed, your Towns given up, your Armies defeated, your Cauſe (I mean Religion and Liberties) triumphed upon, and your ſelves (though in a much lower poſture) crouching and
+<pb n="25" facs="tcp:113437:17"/> ſubmitting to the enemy, as the enemy at this day ſub<g ref="char:EOLhyphen"/>mits to you.</p>
+            <p>But that you have prevailed, your arme been made ſtrong, and now are advanc'd to be the <hi>corner ſtone</hi> of the Kingdom: that liberties are enlarg'd and great<g ref="char:EOLhyphen"/>ned, by endeavours to ſtraiten and deſtroy them; that Religion is advanc'd to greater purity, by wayes made uſe of wholly to corrupt it, and that a Parliament is become the main ſupport of both, a Parliament I ſay, a thing the maſter builders ſleighted, refuſed, and without which they tould us they could ſufficiently conſult the welfare both of Religion and Liberty, that a Parliament is now become the <hi>head of the cor<g ref="char:EOLhyphen"/>ner,</hi> this certainly is <hi>the Lords doing,</hi> and ought only to be aſcribed to the mighty hand of God.</p>
+            <p>And now the main of my taske is over, which was <hi>to draw a parallel 'twixt you and Ioſeph,</hi> and to ſhew <hi>Gods dealing</hi> alike to both: Let me for a cloſe of all, beſeech you in a few things to parallel <hi>Ioſeph</hi> in his <hi>dealing with God,</hi> and I have done. You have ſeen the <hi>carriage of God alike to both;</hi> oh that the <hi>carriage of both might be alike to God.</hi>
+            </p>
+            <p n="1">1. <hi>Ioſeph</hi> was very carefull of giving all honour un<g ref="char:EOLhyphen"/>to God; and therefore when <hi>Pharaoh</hi> tells him, he had heard he could interpret dreams, and do ſtrange matters, <hi>Ioſeph</hi> would not own it; no, ſayes he, <hi>it is</hi> 
+               <note place="margin">Gen. 4<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 16.</note> 
+               <hi>not in me, God ſhall give Pharaoh an anſwer of peace.</hi> In like manner do you, and now you have heard this day of all the great things done for you, dare not you to aſſume to your ſelves any whit of the glory; men<g ref="char:EOLhyphen"/>tion not the leaſt ſyllable of your own goodnes, wiſe<g ref="char:EOLhyphen"/>dom, proweſſe, ſpeak not of your ſword, and your
+<pb n="26" facs="tcp:113437:18"/> bowe, but let this only voice be heard among you, <hi>God hath given England an anſwer of peace.</hi> 
+               <note place="margin">Gen. 39 9.</note>
+            </p>
+            <p n="2">2. <hi>Ioſeph</hi> was very fearfull of ſining againſt God, and therefore though tempted by his miſtris, and every thing conſpiring to heighten the temptation, yet voids all with this, <hi>How ſhall I do this great wickedneſſe, and ſin againſt God?</hi> So you, whether ſingly conſidered, or as a Parliament, oh be you wary how you ſin againſt God, and when temptation of any kinde preſents it ſelf to you, uſe <hi>Ioſephs</hi> guard, and ſay, <hi>Now ſhall we do this thing, and ſin against God?</hi> yea expoſe your ſelves to any hazards, rather then adventure to ſin againſt God, and (as <hi>Ioſeph,</hi> if need be) prefer the cruelleſt impriſonment, and <hi>bonds of iron,</hi> to the moſt pleaſing captivity and <hi>bonds of ſin.</hi>
+            </p>
+            <p n="3">3. <hi>Joſeph</hi> was very ſollicitous of the agreement of his <note place="margin">Gen. 45. 24.</note> brethren, and therefore upon their return out of <hi>Egypt</hi> to their father, <hi>ſee</hi> (ſayes he) <hi>that you fall not out by the way:</hi> Oh do you in like manner: Oh lay your charge upon brethren, to agree; ſuffer them not ſo farre as in you lies, to fall out one with ano<g ref="char:EOLhyphen"/>ther: And whether we have <hi>peace abroad</hi> or no, if it be poſſible lets have <hi>peace as home;</hi> and whether we can <hi>agree with our adverſaries</hi> yea or no, if it be poſ<g ref="char:EOLhyphen"/>ſible lets <hi>agree among our ſelves, lets not fall out by the way.</hi>
+            </p>
+            <p>Would God you could light upon any expedient to ſatisfie all; For my part I know none: I perceive if no indulgence be afforded, 'twill pleaſe ſome, but withall 'twill come very harſh and unpleaſing unto others. Again, If you do indulge, heres a very great difficulty; For who can <hi>ponere terminum?</hi> where
+<pb n="27" facs="tcp:113437:18"/> will you be able to affix a boundarie? and on the other hand, to leave it boundleſſe, not to ſay to an indulgence, <hi>hither ſhalt thou go and no farther;</hi> but, to leave <hi>every man to do that which is good in his own eyes,</hi> it was indeed the caſe of <hi>Iſrael while they had no King,</hi> 
+               <note place="margin">Judg. 17. 6.</note> I hope it ſhall never be the condition of <hi>England while they have a Parliament.</hi>
+            </p>
+            <p>However, endeavour an agreement, and that, if it be poſſible, before you make peace with ene<g ref="char:EOLhyphen"/>mies; for if <hi>they</hi> come, and finde us <hi>not one,</hi> I dread to thinke what manner uſe will be made of it: En<g ref="char:EOLhyphen"/>deavour it therefore: and then that God, who in ſo many other things hath made you ſo like <hi>Ioſeph,</hi> make you like him in his <hi>bleſsing</hi> alſo, even doubling and trebling <hi>Ioſephs double bleſsing</hi> upon the head of e<g ref="char:EOLhyphen"/>very one of you: And may it alwaies be true of the preſent Parliament; <hi>Although the archers have ſorely grieved you, ſhot at you, hated you, howbeit your bowe abides in ſtrength, and the armes of your hands are made ſtrong, by the hands of the mighty God of Iacob, by whom you still continue the ſhepherds and ſtone of</hi> England.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
